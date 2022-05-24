@@ -1,0 +1,12 @@
+dataset_name,dataset_id,tissue_type,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,fovea centralis,UBERON:0001786,female,unknown,78-year-old human stage,European,CL:0000740,retinal ganglion cell,268
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,fovea centralis,UBERON:0001786,male,unknown,73-year-old human stage,European,CL:0000740,retinal ganglion cell,2395
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,fovea centralis,UBERON:0001786,male,unknown,84-year-old human stage,European,CL:0000740,retinal ganglion cell,1085
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,macula lutea proper,UBERON:0002822,female,unknown,78-year-old human stage,European,CL:0000740,retinal ganglion cell,5
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,macula lutea proper,UBERON:0002822,male,unknown,73-year-old human stage,European,CL:0000740,retinal ganglion cell,312
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,macula lutea proper,UBERON:0002822,male,unknown,83-year-old human stage,European,CL:0000740,retinal ganglion cell,751
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,macula lutea proper,UBERON:0002822,male,unknown,84-year-old human stage,European,CL:0000740,retinal ganglion cell,19
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,peripheral region of retina,UBERON:0013682,female,unknown,78-year-old human stage,European,CL:0000740,retinal ganglion cell,4310
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,peripheral region of retina,UBERON:0013682,male,unknown,65-year-old human stage,European,CL:0000740,retinal ganglion cell,14
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,peripheral region of retina,UBERON:0013682,male,unknown,73-year-old human stage,European,CL:0000740,retinal ganglion cell,2254
+Retinal ganglion cells in human retina,aad97cb5-f375-45ef-ae9d-178e7f5d5180,peripheral region of retina,UBERON:0013682,male,unknown,84-year-old human stage,European,CL:0000740,retinal ganglion cell,204

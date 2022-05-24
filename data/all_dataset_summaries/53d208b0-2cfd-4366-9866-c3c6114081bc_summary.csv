@@ -1,0 +1,933 @@
+dataset_name,dataset_id,tissue_type,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000057,fibroblast,6263
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000084,T cell,1018
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000097,mast cell,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000115,endothelial cell,1872
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000134,mesenchymal stem cell,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000186,myofibroblast cell,486
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000192,smooth muscle cell,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000235,macrophage,2184
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000236,B cell,23
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000738,leukocyte,157
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000775,neutrophil,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000786,plasma cell,16
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000814,mature NK T cell,553
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000057,fibroblast,2196
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000084,T cell,697
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000115,endothelial cell,1876
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000134,mesenchymal stem cell,1300
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000186,myofibroblast cell,496
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000192,smooth muscle cell,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,623
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000738,leukocyte,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,439
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,adipose tissue,UBERON:0001013,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,19
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000057,fibroblast,3262
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000084,T cell,1221
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000097,mast cell,649
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000186,myofibroblast cell,1005
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000192,smooth muscle cell,81
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000235,macrophage,2093
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000236,B cell,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000669,pericyte cell,511
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000784,plasmacytoid dendritic cell,18
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000786,plasma cell,673
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,14
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0002138,endothelial cell of lymphatic vessel,67
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0002144,capillary endothelial cell,56
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:0002543,vein endothelial cell,158
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,59-year-old human stage,European,CL:1001428,bladder urothelial cell,1917
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000057,fibroblast,1665
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000084,T cell,1405
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000097,mast cell,342
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000186,myofibroblast cell,984
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000192,smooth muscle cell,146
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,2783
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000236,B cell,240
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000669,pericyte cell,197
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000786,plasma cell,468
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,471
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002138,endothelial cell of lymphatic vessel,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002144,capillary endothelial cell,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002543,vein endothelial cell,108
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bladder organ,UBERON:0018707,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:1001428,bladder urothelial cell,956
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000037,hematopoietic stem cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000049,common myeloid progenitor,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000232,erythrocyte,90
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000576,monocyte,1634
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",1290
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",355
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000775,neutrophil,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000787,memory B cell,168
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000788,naive B cell,263
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,126
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,59-year-old human stage,European,CL:0000980,plasmablast,7
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000037,hematopoietic stem cell,21
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000049,common myeloid progenitor,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000094,granulocyte,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000232,erythrocyte,333
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,488
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000576,monocyte,7338
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000624,"CD4-positive, alpha-beta T cell",1573
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000625,"CD8-positive, alpha-beta T cell",591
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000775,neutrophil,21
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000786,plasma cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000787,memory B cell,89
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000788,naive B cell,450
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,490
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000980,plasmablast,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000037,hematopoietic stem cell,23
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000232,erythrocyte,7599
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000233,platelet,135
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",198
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000767,basophil,7
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000775,neutrophil,1031
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000784,plasmacytoid dendritic cell,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000786,plasma cell,238
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000787,memory B cell,267
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000788,naive B cell,729
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000789,alpha-beta T cell,31
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000814,mature NK T cell,1709
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000860,classical monocyte,3058
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000875,non-classical monocyte,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",289
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000897,"CD4-positive, alpha-beta memory T cell",668
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000908,"CD8-positive, alpha-beta cytokine secreting effector T cell",1377
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0000921,type I NK T cell,451
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,female,unknown,69-year-old human stage,European,CL:0002394,CD141-positive myeloid dendritic cell,7
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000037,hematopoietic stem cell,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000232,erythrocyte,824
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000233,platelet,21
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000625,"CD8-positive, alpha-beta T cell",149
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000767,basophil,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000784,plasmacytoid dendritic cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000786,plasma cell,33
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000787,memory B cell,273
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000788,naive B cell,766
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000814,mature NK T cell,514
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000860,classical monocyte,2053
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000875,non-classical monocyte,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",94
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000897,"CD4-positive, alpha-beta memory T cell",137
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000908,"CD8-positive, alpha-beta cytokine secreting effector T cell",79
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000921,type I NK T cell,34
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0002394,CD141-positive myeloid dendritic cell,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000037,hematopoietic stem cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000232,erythrocyte,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000233,platelet,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000625,"CD8-positive, alpha-beta T cell",13
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000767,basophil,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000775,neutrophil,1567
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000786,plasma cell,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000787,memory B cell,47
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000788,naive B cell,26
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000814,mature NK T cell,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000860,classical monocyte,225
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000897,"CD4-positive, alpha-beta memory T cell",25
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000908,"CD8-positive, alpha-beta cytokine secreting effector T cell",14
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000921,type I NK T cell,24
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0002394,CD141-positive myeloid dendritic cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000037,hematopoietic stem cell,12
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000232,erythrocyte,1637
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000233,platelet,82
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",16
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000767,basophil,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,5834
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000784,plasmacytoid dendritic cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,206
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000787,memory B cell,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000788,naive B cell,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,99
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000860,classical monocyte,1875
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",23
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000897,"CD4-positive, alpha-beta memory T cell",119
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000908,"CD8-positive, alpha-beta cytokine secreting effector T cell",23
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0000921,type I NK T cell,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,blood,UBERON:0000178,male,unknown,59-year-old human stage,European,CL:0002394,CD141-positive myeloid dendritic cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000037,hematopoietic stem cell,256
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000038,erythroid progenitor cell,261
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000049,common myeloid progenitor,88
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000094,granulocyte,287
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,157
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000576,monocyte,571
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000624,"CD4-positive, alpha-beta T cell",523
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000625,"CD8-positive, alpha-beta T cell",441
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000775,neutrophil,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000786,plasma cell,279
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000787,memory B cell,109
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000788,naive B cell,85
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,345
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000980,plasmablast,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000037,hematopoietic stem cell,70
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000038,erythroid progenitor cell,49
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000049,common myeloid progenitor,8
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000094,granulocyte,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000232,erythrocyte,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000576,monocyte,91
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000624,"CD4-positive, alpha-beta T cell",67
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000625,"CD8-positive, alpha-beta T cell",49
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000775,neutrophil,89
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000786,plasma cell,89
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000787,memory B cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000788,naive B cell,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000814,mature NK T cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,22-year-old human stage,Hispanic or Latin American,CL:0000980,plasmablast,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000037,hematopoietic stem cell,97
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000038,erythroid progenitor cell,113
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000049,common myeloid progenitor,14
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000094,granulocyte,97
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000235,macrophage,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000576,monocyte,341
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000624,"CD4-positive, alpha-beta T cell",602
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000625,"CD8-positive, alpha-beta T cell",400
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000775,neutrophil,247
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000786,plasma cell,373
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000787,memory B cell,39
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000788,naive B cell,42
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000814,mature NK T cell,119
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,42-year-old human stage,Asian,CL:0000980,plasmablast,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000037,hematopoietic stem cell,194
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000038,erythroid progenitor cell,334
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000049,common myeloid progenitor,177
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000094,granulocyte,454
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000232,erythrocyte,86
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,105
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000576,monocyte,386
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",833
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",257
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,2560
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,84
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000787,memory B cell,160
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000788,naive B cell,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,bone marrow,UBERON:0002371,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,212
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000034,stem cell,16
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000057,fibroblast,13
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000084,T cell,118
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000097,mast cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000114,surface ectodermal cell,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000115,endothelial cell,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000129,microglial cell,121
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000148,melanocyte,60
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000235,macrophage,21
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000236,B cell,52
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000287,eye photoreceptor cell,564
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000451,dendritic cell,38
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000499,stromal cell,30
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000575,corneal epithelial cell,43
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000576,monocyte,27
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000681,radial glial cell,14
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000745,retina horizontal cell,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000748,retinal bipolar neuron,17
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000764,erythroid lineage cell,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0000786,plasma cell,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0002303,pigmented ciliary epithelial cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0002363,keratocyte,146
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0002585,retinal blood vessel endothelial cell,22
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0002586,retinal pigment epithelial cell,49
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:0011107,Muller cell,61
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:1000432,conjunctival epithelial cell,1088
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,40-year-old human stage,European,CL:1000436,epithelial cell of lacrimal sac,52
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000034,stem cell,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000057,fibroblast,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000084,T cell,72
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000097,mast cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000115,endothelial cell,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000129,microglial cell,25
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000235,macrophage,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000236,B cell,12
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000287,eye photoreceptor cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000451,dendritic cell,20
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000499,stromal cell,109
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000576,monocyte,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000681,radial glial cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000748,retinal bipolar neuron,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000764,erythroid lineage cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0000786,plasma cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0002363,keratocyte,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0002585,retinal blood vessel endothelial cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:0011107,Muller cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,female,unknown,57-year-old human stage,European,CL:1000432,conjunctival epithelial cell,2160
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000034,stem cell,124
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000057,fibroblast,79
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000084,T cell,47
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000097,mast cell,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000114,surface ectodermal cell,48
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000115,endothelial cell,98
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000129,microglial cell,63
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000136,fat cell,44
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000148,melanocyte,84
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000235,macrophage,81
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000236,B cell,38
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000287,eye photoreceptor cell,325
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000451,dendritic cell,124
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000499,stromal cell,186
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000575,corneal epithelial cell,1445
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000576,monocyte,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000624,"CD4-positive, alpha-beta T cell",9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000625,"CD8-positive, alpha-beta T cell",1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000681,radial glial cell,180
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000740,retinal ganglion cell,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000745,retina horizontal cell,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000748,retinal bipolar neuron,16
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000764,erythroid lineage cell,19
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0000786,plasma cell,41
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0002303,pigmented ciliary epithelial cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0002363,keratocyte,440
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0002585,retinal blood vessel endothelial cell,442
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:0011107,Muller cell,297
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,eye,UBERON:0000970,male,unknown,46-year-old human stage,Hispanic or Latin American,CL:1000432,conjunctival epithelial cell,1339
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,heart,UBERON:0000948,male,unknown,74-year-old human stage,Hispanic or Latin American,CL:0000182,hepatocyte,1089
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,heart,UBERON:0000948,male,unknown,74-year-old human stage,Hispanic or Latin American,CL:0000192,smooth muscle cell,222
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,heart,UBERON:0000948,male,unknown,74-year-old human stage,Hispanic or Latin American,CL:0000235,macrophage,74
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,heart,UBERON:0000948,male,unknown,74-year-old human stage,Hispanic or Latin American,CL:0000746,cardiac muscle cell,7205
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,heart,UBERON:0000948,male,unknown,74-year-old human stage,Hispanic or Latin American,CL:0002548,fibroblast of cardiac tissue,250
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,heart,UBERON:0000948,male,unknown,74-year-old human stage,Hispanic or Latin American,CL:0010008,cardiac endothelial cell,2665
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,kidney,UBERON:0002113,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000115,endothelial cell,95
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,kidney,UBERON:0002113,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,321
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,kidney,UBERON:0002113,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000236,B cell,341
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,kidney,UBERON:0002113,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000492,CD4-positive helper T cell,181
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,kidney,UBERON:0002113,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000625,"CD8-positive, alpha-beta T cell",241
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,kidney,UBERON:0002113,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,131
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,kidney,UBERON:0002113,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002518,kidney epithelial cell,8331
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000057,fibroblast,101
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000131,gut endothelial cell,22
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000160,goblet cell,166
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000236,B cell,28
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000584,enterocyte,1464
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000625,"CD8-positive, alpha-beta T cell",42
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000775,neutrophil,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002250,intestinal crypt stem cell,143
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0009009,paneth cell of colon,57
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0009011,transit amplifying cell of colon,156
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0019032,intestinal tuft cell,21
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:1001516,intestinal enteroendocrine cell,36
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0000057,fibroblast,852
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0000097,mast cell,38
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0000131,gut endothelial cell,31
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0000236,B cell,469
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0000576,monocyte,543
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",2872
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",2105
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,22
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,330
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0002071,enterocyte of epithelium of large intestine,2764
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0009009,paneth cell of colon,831
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0009011,transit amplifying cell of colon,52
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0009016,intestinal crypt stem cell of large intestine,114
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:0019032,intestinal tuft cell,12
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:1000320,large intestine goblet cell,385
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,large intestine,UBERON:0000059,male,unknown,59-year-old human stage,European,CL:1001516,intestinal enteroendocrine cell,19
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0000057,fibroblast,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0000084,T cell,126
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0000115,endothelial cell,267
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0000182,hepatocyte,1491
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0000232,erythrocyte,106
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0000576,monocyte,7
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,14
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:0002538,intrahepatic cholangiocyte,31
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,59-year-old human stage,European,CL:1000398,endothelial cell of hepatic sinusoid,80
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:0000057,fibroblast,70
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:0000084,T cell,20
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:0000182,hepatocyte,67
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:0000232,erythrocyte,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:0000235,macrophage,1379
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:0000576,monocyte,605
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:0000775,neutrophil,81
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:0000786,plasma cell,19
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:0000814,mature NK T cell,231
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:0002538,intrahepatic cholangiocyte,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:1000398,endothelial cell of hepatic sinusoid,341
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,liver,UBERON:0002107,male,unknown,67-year-old human stage,European,CL:2000055,liver dendritic cell,34
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000057,fibroblast,173
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000077,mesothelial cell,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000158,club cell,55
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000186,myofibroblast cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000235,macrophage,8571
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000236,B cell,65
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000359,vascular associated smooth muscle cell,43
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000451,dendritic cell,278
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",160
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",159
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000646,basal cell,52
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000669,pericyte cell,21
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000767,basophil,494
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000775,neutrophil,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000784,plasmacytoid dendritic cell,18
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000786,plasma cell,35
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,12
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000860,classical monocyte,381
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0000875,non-classical monocyte,157
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0002062,type I pneumocyte,147
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0002063,type II pneumocyte,1190
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0002138,endothelial cell of lymphatic vessel,29
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0002144,capillary endothelial cell,224
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0002370,respiratory goblet cell,275
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0002503,adventitial cell,77
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0002543,vein endothelial cell,136
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:0002598,bronchial smooth muscle cell,33
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:1000271,lung ciliated cell,287
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:1000331,serous cell of epithelium of bronchus,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:1000413,endothelial cell of artery,84
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,59-year-old human stage,European,CL:2000016,lung microvascular endothelial cell,22
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000057,fibroblast,163
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000077,mesothelial cell,7
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000158,club cell,983
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000186,myofibroblast cell,8
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,3582
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000236,B cell,22
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000359,vascular associated smooth muscle cell,37
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000451,dendritic cell,38
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000624,"CD4-positive, alpha-beta T cell",383
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000625,"CD8-positive, alpha-beta T cell",393
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000646,basal cell,2136
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000669,pericyte cell,192
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000767,basophil,192
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000775,neutrophil,36
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000786,plasma cell,99
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,94
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000860,classical monocyte,1106
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000875,non-classical monocyte,848
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002062,type I pneumocyte,64
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002063,type II pneumocyte,4092
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002138,endothelial cell of lymphatic vessel,18
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002144,capillary endothelial cell,1310
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002370,respiratory goblet cell,479
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002393,intermediate monocyte,252
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002503,adventitial cell,271
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002543,vein endothelial cell,372
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002598,bronchial smooth muscle cell,48
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0017000,pulmonary ionocyte,19
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:1000271,lung ciliated cell,315
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:1000331,serous cell of epithelium of bronchus,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:1000413,endothelial cell of artery,103
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:2000016,lung microvascular endothelial cell,463
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,male,unknown,59-year-old human stage,European,CL:0000071,blood vessel endothelial cell,47
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,male,unknown,59-year-old human stage,European,CL:0000192,smooth muscle cell,25
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,7
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,136
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,26
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,male,unknown,59-year-old human stage,European,CL:0001044,"effector CD4-positive, alpha-beta T cell",132
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,male,unknown,59-year-old human stage,European,CL:0001050,"effector CD8-positive, alpha-beta T cell",80
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,male,unknown,59-year-old human stage,European,CL:0002063,type II pneumocyte,3864
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,male,unknown,59-year-old human stage,European,CL:0002370,respiratory goblet cell,8
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lung,UBERON:0002048,male,unknown,59-year-old human stage,European,CL:0002503,adventitial cell,25
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000097,mast cell,24
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000115,endothelial cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,62
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000786,plasma cell,261
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000787,memory B cell,3319
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000788,naive B cell,1335
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,246
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000815,regulatory T cell,8
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000860,classical monocyte,85
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",1499
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000897,"CD4-positive, alpha-beta memory T cell",1434
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000909,"CD8-positive, alpha-beta memory T cell",864
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0001065,innate lymphoid cell,368
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002393,intermediate monocyte,172
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002394,CD141-positive myeloid dendritic cell,53
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002399,CD1c-positive myeloid dendritic cell,22
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000037,hematopoietic stem cell,30
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000084,T cell,620
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000097,mast cell,104
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000115,endothelial cell,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000232,erythrocyte,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000235,macrophage,114
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000236,B cell,7401
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000499,stromal cell,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000775,neutrophil,24
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000784,plasmacytoid dendritic cell,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000786,plasma cell,334
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000814,mature NK T cell,181
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000815,regulatory T cell,189
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000841,mature conventional dendritic cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000860,classical monocyte,105
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000875,non-classical monocyte,13
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0000921,type I NK T cell,728
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0001044,"effector CD4-positive, alpha-beta T cell",1566
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0001050,"effector CD8-positive, alpha-beta T cell",790
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0001065,innate lymphoid cell,713
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0002393,intermediate monocyte,75
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0002394,CD141-positive myeloid dendritic cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,female,unknown,69-year-old human stage,European,CL:0002399,CD1c-positive myeloid dendritic cell,57
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000037,hematopoietic stem cell,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000084,T cell,3228
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000097,mast cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000115,endothelial cell,137
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000232,erythrocyte,21
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,972
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000236,B cell,7848
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000499,stromal cell,106
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,83
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,2092
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,256
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000815,regulatory T cell,692
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000841,mature conventional dendritic cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000860,classical monocyte,56
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000875,non-classical monocyte,18
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0000921,type I NK T cell,3030
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0001044,"effector CD4-positive, alpha-beta T cell",5342
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0001050,"effector CD8-positive, alpha-beta T cell",5070
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0001065,innate lymphoid cell,1339
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0002393,intermediate monocyte,59
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0002394,CD141-positive myeloid dendritic cell,33
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,lymph node,UBERON:0000029,male,unknown,59-year-old human stage,European,CL:0002399,CD1c-positive myeloid dendritic cell,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000084,T cell,2324
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000097,mast cell,16
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,219
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000236,B cell,43
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000359,vascular associated smooth muscle cell,71
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000646,basal cell,476
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000669,pericyte cell,106
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000786,plasma cell,194
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,19
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0002138,endothelial cell of lymphatic vessel,32
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0002326,luminal epithelial cell of mammary gland,5378
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0002543,vein endothelial cell,263
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:1000413,endothelial cell of artery,168
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,mammary gland,UBERON:0001911,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:4006000,fibroblast of breast,2066
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000077,mesothelial cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000084,T cell,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000097,mast cell,19
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000134,mesenchymal stem cell,771
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000189,slow muscle cell,44
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000190,fast muscle cell,59
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000192,smooth muscle cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000232,erythrocyte,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,152
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000388,tendon cell,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000624,"CD4-positive, alpha-beta T cell",70
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000625,"CD8-positive, alpha-beta T cell",224
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000669,pericyte cell,111
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0002138,endothelial cell of lymphatic vessel,56
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0002139,endothelial cell of vascular tree,266
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0002144,capillary endothelial cell,150
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0008011,skeletal muscle satellite stem cell,292
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:1000413,endothelial cell of artery,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000084,T cell,18
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000097,mast cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000134,mesenchymal stem cell,1065
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000189,slow muscle cell,65
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000190,fast muscle cell,149
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000232,erythrocyte,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000235,macrophage,174
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000388,tendon cell,153
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",78
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",37
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000669,pericyte cell,510
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,106
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0002138,endothelial cell of lymphatic vessel,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0002139,endothelial cell of vascular tree,436
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0002144,capillary endothelial cell,549
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:0008011,skeletal muscle satellite stem cell,346
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,59-year-old human stage,European,CL:1000413,endothelial cell of artery,43
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000084,T cell,305
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000097,mast cell,8
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000134,mesenchymal stem cell,7454
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000189,slow muscle cell,25
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000190,fast muscle cell,14
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000232,erythrocyte,14
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,1166
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000388,tendon cell,28
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000624,"CD4-positive, alpha-beta T cell",16
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000625,"CD8-positive, alpha-beta T cell",229
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000669,pericyte cell,800
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,22
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002138,endothelial cell of lymphatic vessel,41
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002139,endothelial cell of vascular tree,2673
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002144,capillary endothelial cell,952
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0008011,skeletal muscle satellite stem cell,2545
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:1000413,endothelial cell of artery,55
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000077,mesothelial cell,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000084,T cell,79
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000097,mast cell,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000134,mesenchymal stem cell,4858
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000189,slow muscle cell,29
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000190,fast muscle cell,44
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000192,smooth muscle cell,43
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000232,erythrocyte,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,497
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000388,tendon cell,47
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",57
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",46
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000669,pericyte cell,373
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0002138,endothelial cell of lymphatic vessel,22
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0002139,endothelial cell of vascular tree,227
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0002144,capillary endothelial cell,364
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:0008011,skeletal muscle satellite stem cell,1648
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,muscle tissue,UBERON:0002385,male,unknown,59-year-old human stage,European,CL:1000413,endothelial cell of artery,32
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0000084,T cell,29
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0000097,mast cell,51
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0000115,endothelial cell,265
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0000169,type B pancreatic cell,82
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0000171,pancreatic A cell,71
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0000173,pancreatic D cell,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0000236,B cell,119
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0000763,myeloid cell,85
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0002064,pancreatic acinar cell,4364
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0002079,pancreatic ductal cell,1613
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0002275,pancreatic PP cell,71
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,female,unknown,59-year-old human stage,European,CL:0002410,pancreatic stellate cell,39
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0000057,fibroblast,47
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0000084,T cell,544
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0000097,mast cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0000115,endothelial cell,1835
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0000169,type B pancreatic cell,17
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0000236,B cell,25
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0000763,myeloid cell,1777
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0000786,plasma cell,63
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0000814,mature NK T cell,47
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0002064,pancreatic acinar cell,1170
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0002079,pancreatic ductal cell,818
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,pancreas,UBERON:0001264,male,unknown,37-year-old human stage,Hispanic or Latin American,CL:0002410,pancreatic stellate cell,354
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000038,erythroid progenitor cell,52
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000057,fibroblast,207
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000066,epithelial cell,6637
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000115,endothelial cell,471
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000158,club cell,290
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000192,smooth muscle cell,285
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000235,macrophage,317
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000499,stromal cell,32
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000576,monocyte,33
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000625,"CD8-positive, alpha-beta T cell",1081
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0000814,mature NK T cell,430
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0002340,luminal cell of prostate epithelium,60
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,56-year-old human stage,Hispanic or Latin American,CL:0002341,basal cell of prostate epithelium,3198
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0000019,sperm,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0000038,erythroid progenitor cell,34
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0000057,fibroblast,16
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0000066,epithelial cell,211
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0000084,T cell,586
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0000097,mast cell,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0000115,endothelial cell,114
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0000158,club cell,788
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0000763,myeloid cell,365
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,16
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0002340,luminal cell of prostate epithelium,1032
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,prostate gland,UBERON:0002367,male,unknown,59-year-old human stage,European,CL:0002341,basal cell of prostate epithelium,100
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000057,fibroblast,911
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000068,duct epithelial cell,121
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000084,T cell,83
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000115,endothelial cell,88
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000185,myoepithelial cell,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000236,B cell,129
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000492,CD4-positive helper T cell,1217
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000576,monocyte,100
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",182
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",101
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000646,basal cell,31
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000669,pericyte cell,30
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000775,neutrophil,12
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000786,plasma cell,7
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000787,memory B cell,2875
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000788,naive B cell,1120
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0000814,mature NK T cell,239
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0002138,endothelial cell of lymphatic vessel,57
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0002503,adventitial cell,329
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,female,unknown,69-year-old human stage,European,CL:0002623,acinar cell of salivary gland,1801
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000057,fibroblast,1258
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000068,duct epithelial cell,1572
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000084,T cell,144
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000115,endothelial cell,235
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000185,myoepithelial cell,192
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,1761
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000236,B cell,8
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000492,CD4-positive helper T cell,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000576,monocyte,326
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",1878
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000646,basal cell,891
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000669,pericyte cell,116
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,103
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,338
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000787,memory B cell,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,78
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0002138,endothelial cell of lymphatic vessel,263
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0002503,adventitial cell,113
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0002623,acinar cell of salivary gland,8346
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0005006,ionocyte,87
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,saliva-secreting gland,UBERON:0001044,male,unknown,59-year-old human stage,European,CL:0009005,salivary gland cell,45
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000066,epithelial cell,101
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000084,T cell,311
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000097,mast cell,578
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000115,endothelial cell,833
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000148,melanocyte,61
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000187,muscle cell,180
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000235,macrophage,718
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000453,Langerhans cell,19
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000492,CD4-positive helper T cell,32
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000499,stromal cell,1518
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000786,plasma cell,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000787,memory B cell,9
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000788,naive B cell,7
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000794,"CD8-positive, alpha-beta cytotoxic T cell",87
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000814,mature NK T cell,367
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000815,regulatory T cell,47
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",29
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000897,"CD4-positive, alpha-beta memory T cell",153
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000900,"naive thymus-derived CD8-positive, alpha-beta T cell",66
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0000909,"CD8-positive, alpha-beta memory T cell",583
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0002394,CD141-positive myeloid dendritic cell,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,33-year-old human stage,Hispanic or Latin American,CL:0002399,CD1c-positive myeloid dendritic cell,144
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000066,epithelial cell,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000084,T cell,208
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000097,mast cell,67
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000115,endothelial cell,476
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000148,melanocyte,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000187,muscle cell,257
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000188,cell of skeletal muscle,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000192,smooth muscle cell,13
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,128
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000453,Langerhans cell,17
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000492,CD4-positive helper T cell,27
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000499,stromal cell,1425
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000794,"CD8-positive, alpha-beta cytotoxic T cell",42
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,238
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000815,regulatory T cell,79
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",42
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000897,"CD4-positive, alpha-beta memory T cell",186
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000900,"naive thymus-derived CD8-positive, alpha-beta T cell",22
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0000909,"CD8-positive, alpha-beta memory T cell",274
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0002394,CD141-positive myeloid dendritic cell,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,skin of body,UBERON:0002097,male,unknown,59-year-old human stage,European,CL:0002399,CD1c-positive myeloid dendritic cell,21
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000057,fibroblast,25
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000131,gut endothelial cell,31
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000160,goblet cell,61
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000236,B cell,78
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000584,enterocyte,942
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000625,"CD8-positive, alpha-beta T cell",92
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000775,neutrophil,4
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002250,intestinal crypt stem cell,102
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0009012,transit amplifying cell of small intestine,100
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0019032,intestinal tuft cell,14
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:1000343,paneth cell of epithelium of small intestine,470
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:1001516,intestinal enteroendocrine cell,46
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:1001589,duodenum glandular cell,44
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0000057,fibroblast,88
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0000097,mast cell,65
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0000131,gut endothelial cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0000236,B cell,441
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0000576,monocyte,61
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",5257
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",2231
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,64
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,303
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0009012,transit amplifying cell of small intestine,127
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0009017,intestinal crypt stem cell of small intestine,71
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:0019032,intestinal tuft cell,146
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:1000334,enterocyte of epithelium of small intestine,1100
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:1000343,paneth cell of epithelium of small intestine,177
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:1000495,small intestine goblet cell,300
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,small intestine,UBERON:0002108,male,unknown,59-year-old human stage,European,CL:1001516,intestinal enteroendocrine cell,12
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000115,endothelial cell,158
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000232,erythrocyte,28
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000233,platelet,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,443
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000625,"CD8-positive, alpha-beta T cell",43
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000775,neutrophil,53
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000784,plasmacytoid dendritic cell,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000786,plasma cell,805
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000787,memory B cell,2069
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000788,naive B cell,566
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,619
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000815,regulatory T cell,56
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000860,classical monocyte,993
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",236
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000897,"CD4-positive, alpha-beta memory T cell",308
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000900,"naive thymus-derived CD8-positive, alpha-beta T cell",378
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000909,"CD8-positive, alpha-beta memory T cell",822
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0001065,innate lymphoid cell,27
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002394,CD141-positive myeloid dendritic cell,33
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002399,CD1c-positive myeloid dendritic cell,25
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000037,hematopoietic stem cell,28
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000115,endothelial cell,310
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000232,erythrocyte,16
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000233,platelet,8
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000235,macrophage,370
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000775,neutrophil,672
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000786,plasma cell,537
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000787,memory B cell,1616
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000788,naive B cell,400
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000814,mature NK T cell,581
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000815,regulatory T cell,87
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000860,classical monocyte,491
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",364
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000897,"CD4-positive, alpha-beta memory T cell",421
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000900,"naive thymus-derived CD8-positive, alpha-beta T cell",144
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000909,"CD8-positive, alpha-beta memory T cell",723
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0000921,type I NK T cell,449
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0001065,innate lymphoid cell,24
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0002393,intermediate monocyte,101
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0002394,CD141-positive myeloid dendritic cell,17
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,female,unknown,69-year-old human stage,European,CL:0002399,CD1c-positive myeloid dendritic cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000037,hematopoietic stem cell,45
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000115,endothelial cell,128
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000232,erythrocyte,126
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000233,platelet,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,522
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000775,neutrophil,3814
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000784,plasmacytoid dendritic cell,37
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,1829
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000787,memory B cell,2775
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000788,naive B cell,78
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,1239
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000815,regulatory T cell,145
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000860,classical monocyte,2959
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",661
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000897,"CD4-positive, alpha-beta memory T cell",1042
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000900,"naive thymus-derived CD8-positive, alpha-beta T cell",88
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000909,"CD8-positive, alpha-beta memory T cell",2756
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0000921,type I NK T cell,589
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0001065,innate lymphoid cell,66
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0002393,intermediate monocyte,30
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0002394,CD141-positive myeloid dendritic cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,spleen,UBERON:0002106,male,unknown,59-year-old human stage,European,CL:0002399,CD1c-positive myeloid dendritic cell,24
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000057,fibroblast,673
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000077,mesothelial cell,12
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000097,mast cell,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000190,fast muscle cell,86
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000232,erythrocyte,8
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,158
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000359,vascular associated smooth muscle cell,691
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000451,dendritic cell,35
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000492,CD4-positive helper T cell,4255
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000576,monocyte,346
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000625,"CD8-positive, alpha-beta T cell",349
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000786,plasma cell,89
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000787,memory B cell,1845
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000788,naive B cell,874
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,194
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000823,immature natural killer cell,44
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000893,thymocyte,553
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002138,endothelial cell of lymphatic vessel,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002144,capillary endothelial cell,979
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002365,medullary thymic epithelial cell,26
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002543,vein endothelial cell,662
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:1000413,endothelial cell of artery,181
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000057,fibroblast,3251
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000232,erythrocyte,39
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,303
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000236,B cell,1919
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000359,vascular associated smooth muscle cell,1439
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000492,CD4-positive helper T cell,3356
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000576,monocyte,88
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000782,myeloid dendritic cell,3
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,1465
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000794,"CD8-positive, alpha-beta cytotoxic T cell",501
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000807,DN3 thymocyte,1788
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000808,DN4 thymocyte,32
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,80
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0000894,DN1 thymic pro-T cell,985
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0001065,innate lymphoid cell,2594
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0002038,T follicular helper cell,398
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0002138,endothelial cell of lymphatic vessel,256
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0002144,capillary endothelial cell,383
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0002365,medullary thymic epithelial cell,140
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0002543,vein endothelial cell,1442
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:0002677,naive regulatory T cell,761
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,thymus,UBERON:0002370,male,unknown,59-year-old human stage,European,CL:1000413,endothelial cell of artery,355
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000057,fibroblast,8
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000312,keratinocyte,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000646,basal cell,164
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000669,pericyte cell,2
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000738,leukocyte,6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0002673,tongue muscle cell,1
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:0000057,fibroblast,115
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:0000066,epithelial cell,2114
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:0000312,keratinocyte,14
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:0000646,basal cell,5355
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:0000669,pericyte cell,81
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:0000738,leukocyte,1609
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:0002138,endothelial cell of lymphatic vessel,21
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:0002144,capillary endothelial cell,23
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:0002543,vein endothelial cell,70
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:0002673,tongue muscle cell,7
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,female,unknown,69-year-old human stage,European,CL:1000413,endothelial cell of artery,8
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:0000057,fibroblast,128
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:0000312,keratinocyte,3648
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:0000646,basal cell,762
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:0000669,pericyte cell,34
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:0000738,leukocyte,494
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:0002138,endothelial cell of lymphatic vessel,23
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:0002144,capillary endothelial cell,78
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:0002543,vein endothelial cell,156
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:0002573,Schwann cell,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:0002673,tongue muscle cell,52
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,tongue,UBERON:0001723,male,unknown,59-year-old human stage,European,CL:1000413,endothelial cell of artery,32
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000064,ciliated cell,39
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000115,endothelial cell,33
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000151,secretory cell,74
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000160,goblet cell,84
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,13
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000646,basal cell,3907
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000786,plasma cell,5
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0002320,connective tissue cell,249
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000057,fibroblast,1239
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000064,ciliated cell,278
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000084,T cell,131
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000097,mast cell,69
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000115,endothelial cell,224
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000151,secretory cell,179
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000192,smooth muscle cell,96
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000235,macrophage,528
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000236,B cell,462
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000319,mucus secreting cell,64
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000624,"CD4-positive, alpha-beta T cell",65
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000625,"CD8-positive, alpha-beta T cell",464
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000646,basal cell,291
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000775,neutrophil,758
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000786,plasma cell,133
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0000809,"double-positive, alpha-beta thymocyte",6
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:0005006,ionocyte,13
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:1000329,tracheal goblet cell,77
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,trachea,UBERON:0003126,male,unknown,67-year-old human stage,European,CL:1000330,serous cell of epithelium of trachea,41
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000057,fibroblast,3014
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000066,epithelial cell,68
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000067,ciliated epithelial cell,31
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000084,T cell,546
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000115,endothelial cell,2077
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,344
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000236,B cell,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000359,vascular associated smooth muscle cell,390
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000669,pericyte cell,95
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000738,leukocyte,17
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,53
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0002138,endothelial cell of lymphatic vessel,86
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0002149,epithelial cell of uterus,194
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,uterus,UBERON:0000995,female,unknown,38-year-old human stage,African American or Afro-Caribbean,CL:0002366,myometrial cell,199
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000057,fibroblast,3027
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000066,epithelial cell,26
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000084,T cell,231
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000097,mast cell,72
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000115,endothelial cell,1549
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000192,smooth muscle cell,1265
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000232,erythrocyte,47
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000235,macrophage,1907
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000236,B cell,10
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000669,pericyte cell,384
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000786,plasma cell,35
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,female,unknown,61-year-old human stage,African American or Afro-Caribbean,CL:0000814,mature NK T cell,95
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000057,fibroblast,2840
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000084,T cell,245
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000097,mast cell,33
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000115,endothelial cell,15
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000192,smooth muscle cell,1810
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000232,erythrocyte,17
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000235,macrophage,1394
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000236,B cell,11
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000669,pericyte cell,809
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000786,plasma cell,7
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0000814,mature NK T cell,26
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0002138,endothelial cell of lymphatic vessel,44
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:0002144,capillary endothelial cell,1034
+Tabula Sapiens - All Cells,53d208b0-2cfd-4366-9866-c3c6114081bc,vasculature,UBERON:0002049,male,unknown,59-year-old human stage,European,CL:1000413,endothelial cell of artery,138

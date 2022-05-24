@@ -1,0 +1,5 @@
+dataset_name,dataset_id,tissue_type,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
+scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,42b6a476-c51d-4f8b-b68b-44941b3a11bf,mesenteric artery,UBERON:0005616,male,unknown,28-year-old human stage,Hispanic or Latin American,CL:0000003,native cell,1135
+scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,42b6a476-c51d-4f8b-b68b-44941b3a11bf,mesenteric artery,UBERON:0005616,male,unknown,28-year-old human stage,Hispanic or Latin American,CL:1000413,endothelial cell of artery,420
+scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,42b6a476-c51d-4f8b-b68b-44941b3a11bf,mesenteric artery,UBERON:0005616,male,unknown,59-year-old human stage,European,CL:0000003,native cell,1141
+scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,42b6a476-c51d-4f8b-b68b-44941b3a11bf,mesenteric artery,UBERON:0005616,male,unknown,59-year-old human stage,European,CL:1000413,endothelial cell of artery,794

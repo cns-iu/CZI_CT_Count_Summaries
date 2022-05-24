@@ -1,0 +1,67 @@
+dataset_name,dataset_id,tissue_type,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,female,unknown,78-year-old human stage,European,CL:0000125,glial cell,1862
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,female,unknown,78-year-old human stage,European,CL:0000561,amacrine cell,1556
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,female,unknown,78-year-old human stage,European,CL:0000573,retinal cone cell,857
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,female,unknown,78-year-old human stage,European,CL:0000604,retinal rod cell,14397
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,female,unknown,78-year-old human stage,European,CL:0000745,retina horizontal cell,1058
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,female,unknown,78-year-old human stage,European,CL:0000748,retinal bipolar neuron,9460
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,73-year-old human stage,European,CL:0000125,glial cell,8728
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,73-year-old human stage,European,CL:0000561,amacrine cell,3940
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,73-year-old human stage,European,CL:0000573,retinal cone cell,3384
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,73-year-old human stage,European,CL:0000604,retinal rod cell,3472
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,73-year-old human stage,European,CL:0000745,retina horizontal cell,3800
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,73-year-old human stage,European,CL:0000748,retinal bipolar neuron,14317
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,84-year-old human stage,European,CL:0000125,glial cell,1523
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,84-year-old human stage,European,CL:0000561,amacrine cell,1966
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,84-year-old human stage,European,CL:0000573,retinal cone cell,1549
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,84-year-old human stage,European,CL:0000604,retinal rod cell,8232
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,84-year-old human stage,European,CL:0000745,retina horizontal cell,1497
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,fovea centralis,UBERON:0001786,male,unknown,84-year-old human stage,European,CL:0000748,retinal bipolar neuron,9721
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,female,unknown,78-year-old human stage,European,CL:0000125,glial cell,494
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,female,unknown,78-year-old human stage,European,CL:0000561,amacrine cell,42
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,female,unknown,78-year-old human stage,European,CL:0000573,retinal cone cell,576
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,female,unknown,78-year-old human stage,European,CL:0000604,retinal rod cell,12673
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,female,unknown,78-year-old human stage,European,CL:0000745,retina horizontal cell,105
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,female,unknown,78-year-old human stage,European,CL:0000748,retinal bipolar neuron,2819
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,73-year-old human stage,European,CL:0000125,glial cell,796
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,73-year-old human stage,European,CL:0000561,amacrine cell,849
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,73-year-old human stage,European,CL:0000573,retinal cone cell,1044
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,73-year-old human stage,European,CL:0000604,retinal rod cell,10368
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,73-year-old human stage,European,CL:0000745,retina horizontal cell,437
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,73-year-old human stage,European,CL:0000748,retinal bipolar neuron,5525
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,83-year-old human stage,European,CL:0000125,glial cell,1098
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,83-year-old human stage,European,CL:0000561,amacrine cell,1095
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,83-year-old human stage,European,CL:0000573,retinal cone cell,845
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,83-year-old human stage,European,CL:0000604,retinal rod cell,10036
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,83-year-old human stage,European,CL:0000745,retina horizontal cell,248
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,83-year-old human stage,European,CL:0000748,retinal bipolar neuron,5359
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,84-year-old human stage,European,CL:0000125,glial cell,866
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,84-year-old human stage,European,CL:0000561,amacrine cell,117
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,84-year-old human stage,European,CL:0000573,retinal cone cell,598
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,84-year-old human stage,European,CL:0000604,retinal rod cell,11232
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,84-year-old human stage,European,CL:0000745,retina horizontal cell,49
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,macula lutea proper,UBERON:0002822,male,unknown,84-year-old human stage,European,CL:0000748,retinal bipolar neuron,3296
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,female,unknown,78-year-old human stage,European,CL:0000125,glial cell,402
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,female,unknown,78-year-old human stage,European,CL:0000561,amacrine cell,19750
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,female,unknown,78-year-old human stage,European,CL:0000573,retinal cone cell,302
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,female,unknown,78-year-old human stage,European,CL:0000604,retinal rod cell,3267
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,female,unknown,78-year-old human stage,European,CL:0000745,retina horizontal cell,60
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,female,unknown,78-year-old human stage,European,CL:0000748,retinal bipolar neuron,417
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,65-year-old human stage,European,CL:0000125,glial cell,136
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,65-year-old human stage,European,CL:0000561,amacrine cell,4877
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,65-year-old human stage,European,CL:0000573,retinal cone cell,21
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,65-year-old human stage,European,CL:0000604,retinal rod cell,1695
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,65-year-old human stage,European,CL:0000745,retina horizontal cell,5
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,65-year-old human stage,European,CL:0000748,retinal bipolar neuron,125
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,73-year-old human stage,European,CL:0000125,glial cell,2055
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,73-year-old human stage,European,CL:0000561,amacrine cell,16321
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,73-year-old human stage,European,CL:0000573,retinal cone cell,2417
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,73-year-old human stage,European,CL:0000604,retinal rod cell,22408
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,73-year-old human stage,European,CL:0000745,retina horizontal cell,87
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,73-year-old human stage,European,CL:0000748,retinal bipolar neuron,1966
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,84-year-old human stage,European,CL:0000125,glial cell,51
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,84-year-old human stage,European,CL:0000561,amacrine cell,5994
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,84-year-old human stage,European,CL:0000573,retinal cone cell,36
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,84-year-old human stage,European,CL:0000604,retinal rod cell,159
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,84-year-old human stage,European,CL:0000745,retina horizontal cell,2
+All major cell types in adult human retina,0129dbd9-a7d3-4f6b-96b9-1da155a93748,peripheral region of retina,UBERON:0013682,male,unknown,84-year-old human stage,European,CL:0000748,retinal bipolar neuron,35

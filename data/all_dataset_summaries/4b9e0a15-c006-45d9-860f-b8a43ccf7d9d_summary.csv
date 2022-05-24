@@ -1,0 +1,2 @@
+dataset_name,dataset_id,tissue_type,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
+Single-cell gene expression profiling of SARS-CoV-2 infected human cell lines - Calu-3,4b9e0a15-c006-45d9-860f-b8a43ccf7d9d,epithelial cell of lung (cell culture),CL:0000082 (cell culture),male,unknown,unknown,unknown,CL:0000010,cultured cell,16512

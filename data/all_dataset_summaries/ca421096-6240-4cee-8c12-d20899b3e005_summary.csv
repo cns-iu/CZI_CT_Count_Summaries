@@ -1,0 +1,2 @@
+dataset_name,dataset_id,tissue_type,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
+Single-cell gene expression profiling of SARS-CoV-2 infected human cell lines - H1299,ca421096-6240-4cee-8c12-d20899b3e005,epithelial cell of lung (cell culture),CL:0000082 (cell culture),male,unknown,unknown,unknown,CL:0000010,cultured cell,16218

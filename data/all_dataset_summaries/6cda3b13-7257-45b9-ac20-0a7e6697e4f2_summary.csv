@@ -1,0 +1,2 @@
+dataset_name,dataset_id,tissue_type,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
+scRNA-seq data analysis of HUVECs treated with high glucose and TNFα,6cda3b13-7257-45b9-ac20-0a7e6697e4f2,endothelial cell (cell culture),CL:0000115 (cell culture),unknown,unknown,newborn human stage,unknown,CL:0002618,endothelial cell of umbilical vein,59605

@@ -1,0 +1,39 @@
+dataset_name,dataset_id,tissue_type,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,female,unknown,48-year-old human stage,unknown,CL:0000115,endothelial cell,6
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,female,unknown,48-year-old human stage,unknown,CL:0000169,type B pancreatic cell,121
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,female,unknown,48-year-old human stage,unknown,CL:0000171,pancreatic A cell,301
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,female,unknown,48-year-old human stage,unknown,CL:0000173,pancreatic D cell,68
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,female,unknown,48-year-old human stage,unknown,CL:0002064,pancreatic acinar cell,55
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,female,unknown,48-year-old human stage,unknown,CL:0002079,pancreatic ductal cell,80
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,female,unknown,48-year-old human stage,unknown,CL:0002275,pancreatic PP cell,5
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,female,unknown,48-year-old human stage,unknown,CL:0008019,mesenchymal cell,50
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,female,unknown,48-year-old human stage,unknown,CL:0008024,pancreatic endocrine cell,1
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,23-year-old human stage,unknown,CL:0000115,endothelial cell,2
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,23-year-old human stage,unknown,CL:0000169,type B pancreatic cell,154
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,23-year-old human stage,unknown,CL:0000171,pancreatic A cell,248
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,23-year-old human stage,unknown,CL:0000173,pancreatic D cell,74
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,23-year-old human stage,unknown,CL:0002064,pancreatic acinar cell,5
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,23-year-old human stage,unknown,CL:0002079,pancreatic ductal cell,21
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,23-year-old human stage,unknown,CL:0002275,pancreatic PP cell,59
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,23-year-old human stage,unknown,CL:0005019,pancreatic epsilon cell,2
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,23-year-old human stage,unknown,CL:0008019,mesenchymal cell,6
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,23-year-old human stage,unknown,CL:0008024,pancreatic endocrine cell,3
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,54-year-old human stage,unknown,CL:0000115,endothelial cell,4
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,54-year-old human stage,unknown,CL:0000169,type B pancreatic cell,14
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,54-year-old human stage,unknown,CL:0000171,pancreatic A cell,54
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,54-year-old human stage,unknown,CL:0000173,pancreatic D cell,7
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,54-year-old human stage,unknown,CL:0002064,pancreatic acinar cell,53
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,54-year-old human stage,unknown,CL:0002079,pancreatic ductal cell,39
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,54-year-old human stage,unknown,CL:0002275,pancreatic PP cell,9
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,54-year-old human stage,unknown,CL:0008019,mesenchymal cell,1
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,54-year-old human stage,unknown,CL:0008024,pancreatic endocrine cell,1
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,59-year-old human stage,unknown,CL:0000115,endothelial cell,9
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,59-year-old human stage,unknown,CL:0000169,type B pancreatic cell,159
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,59-year-old human stage,unknown,CL:0000171,pancreatic A cell,209
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,59-year-old human stage,unknown,CL:0000173,pancreatic D cell,44
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,59-year-old human stage,unknown,CL:0002064,pancreatic acinar cell,106
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,59-year-old human stage,unknown,CL:0002079,pancreatic ductal cell,106
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,59-year-old human stage,unknown,CL:0002275,pancreatic PP cell,25
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,59-year-old human stage,unknown,CL:0005019,pancreatic epsilon cell,1
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,59-year-old human stage,unknown,CL:0008019,mesenchymal cell,21
+A Single-Cell Transcriptome Atlas of the Human Pancreas,b07e5164-baf6-43d2-bdba-5a249d0da879,pancreas,UBERON:0001264,male,unknown,59-year-old human stage,unknown,CL:0008024,pancreatic endocrine cell,3
