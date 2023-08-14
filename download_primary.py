@@ -22,6 +22,7 @@ adapter = HTTPAdapter(max_retries=retry_strategy)
 https = requests.Session()
 https.mount("https://", adapter)
 
+# Note that API versions have changed. Old dataset IDs in the APi response have the field 'dataset_id_version'.
 CELLXGENE_PRODUCTION_ENDPOINT = 'https://api.cellxgene.cziscience.com'
 COLLECTIONS = CELLXGENE_PRODUCTION_ENDPOINT + "/dp/v1/collections/"
 DATASETS = CELLXGENE_PRODUCTION_ENDPOINT + "/dp/v1/datasets/"
